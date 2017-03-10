@@ -28,3 +28,7 @@ li a:hover {
       background-color: #555;
       color: white;
 }
+
+body {
+    padding-left: 10px;
+}
