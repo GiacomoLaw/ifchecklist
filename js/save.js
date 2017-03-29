@@ -11,3 +11,7 @@ function load_() {
         checkboxes[i].checked = localStorage.getItem(checkboxes[i].value) === 'true' ? true:false;
     }
 } 
+
+function clear() {
+    localStorage.clear();
+}
