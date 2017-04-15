@@ -32,3 +32,19 @@ li a:hover {
 .padding {
     padding-left: 10px;
 }
+
+button {
+    background-color: #01b213;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: #01700c;
+}
